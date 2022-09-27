@@ -1,0 +1,46 @@
+/*info div*/
+.infoDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.infoDiv img{
+    margin: 20px 0px;
+    width: 250px;
+    height: auto;
+}
+h3{
+    margin: 0;
+    padding: 0;
+}
+.infoDiv button{
+    width: 250px;
+    height: 30px;
+    background: white;
+    border-radius: 5px;
+	border: 1px solid rgba(0, 0, 0, 0.384);
+    outline: inherit;
+    margin-bottom: 20px;
+}
+
+/*about div*/
+.aboutDiv{
+    max-width: 250px;
+}
+/*interests div*/
+.interestsDiv{
+    max-width: 250px;
+}
+/*footer div*/
+.footerDiv img{
+    margin: 6px 10px;
+    width: 35px;
+}
+.footerDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.727);
+}

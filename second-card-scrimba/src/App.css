@@ -1,0 +1,14 @@
+html{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(254, 254, 254, 0.792);
+  width: 300px;
+}
+
